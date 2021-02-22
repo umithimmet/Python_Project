@@ -82,6 +82,8 @@ print("Good jbs")
 
 print("sdsd")
 
+print("dkkjdkj")
+
 
 '''
 #excel sheet lere yazdırma
@@ -113,3 +115,4 @@ table[]
 '''
 
 #print(table.to_string())
+
